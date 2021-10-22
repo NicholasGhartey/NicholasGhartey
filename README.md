@@ -1,13 +1,13 @@
 👋 Hi, I am Nicholas. Pleasure to meet you! 👋
 
 
-- 🔭 I’m currently working on ...Github, MySQL, Python & Linux Projects! Helppppppp!!!
-- 🌱 I’m currently learning ... Python Concepts via the QA Bootcamp.
-- 🤔 I’m looking for help with ...As many things as possible please!?!
-- 💬 Ask me about ... Anything, I will try to help if I can!
-- 📫 How to reach me: ... Check out my LinkedIn: https://www.linkedin.com/in/nicholas-ghartey/
-- 😄 Pronouns: ... He, Him, His
-- :diamonds: Fun fact: ... I played professional poker for 7 years.
+- 🔭 I’m currently working on ...Github, MySQL, Python & Linux Projects! Helppppppp!!! :computer:
+- 🌱 I’m currently learning ... Cloud Concepts. :file_folder:
+- 🤔 I’m looking for help with ...As many things as possible please!?! :weary: 
+- 💬 Ask me about ... Anything, I will try to assist if I can! :thought_balloon:
+- 📫 How to reach me: ... Check out my LinkedIn: https://www.linkedin.com/in/nicholas-ghartey/ :phone:
+- 😄 Pronouns: ... He, Him, His  :thumbsup:
+- :diamonds: Fun fact: ... I played professional poker for 7 years. :spades: 
 
 
 
