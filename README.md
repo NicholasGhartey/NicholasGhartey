@@ -7,7 +7,7 @@
 - 💬 Ask me about ... Anything, I will try to assist if I can! :thought_balloon:
 - 📫 How to reach me: ... Check out my LinkedIn: https://www.linkedin.com/in/nicholas-ghartey/ :phone:
 - 😄 Pronouns: ... He, Him, His  :thumbsup:
-- :diamonds: Fun fact: ... I played professional poker for 7 years. :spades: 
+- :diamonds: Fun fact: ... I played professional poker for 7 years. ♥️
 
 
 
