@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on ... My Python fundamentals :computer:
-- 🌱 I’m currently learning ... Cloud Concepts. :file_folder:
+- 🌱 I’m currently learning ... Cloud Deplyment Concepts. :file_folder:
 - 🤔 I’m looking for help with ...As many things as possible please!?! :weary: 
 - 💬 Ask me about ... Anything, I will try to assist if I can! :thought_balloon:
 - 📫 How to reach me: ... Check out my LinkedIn: https://www.linkedin.com/in/nicholas-ghartey/ :phone:
