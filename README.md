@@ -1,7 +1,7 @@
 👋 Hi, I am Nicholas. Pleasure to meet you! 👋
 
 
-- 🔭 I’m currently working on ... My Python fundamentals :computer:
+- 🔭 I’m currently working on ... My Python fundamentals, Jenkins & Docker :computer:
 - 🌱 I’m currently learning ... Cloud Deployment Concepts. :file_folder:
 - 🤔 I’m looking for help with ...As many things as possible please!?! :weary: 
 - 💬 Ask me about ... Anything, I will try to assist if I can! :thought_balloon:
