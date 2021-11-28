@@ -1,9 +1,8 @@
 👋 Hi, I am Nicholas. Pleasure to meet you! 👋
 
 
-- 🔭 I’m currently working on ... My Python, Jenkins & Docker fundamentals :computer:
+- 🔭 I’m currently working on ... Jenkins & Docker fundamentals :computer:
 - 🌱 I’m currently learning ... Cloud Deployment Concepts. :file_folder:
-- 🤔 I’m looking for help with ...As many things as possible please!?! :weary: 
 - 💬 Ask me about ... Anything, I will try to assist if I can! :thought_balloon:
 - 📫 How to reach me: ... Check out my LinkedIn: https://www.linkedin.com/in/nicholas-ghartey/ :phone:
 - 😄 Pronouns: ... He, Him, His  :thumbsup:
@@ -11,11 +10,7 @@
 
 
 
-
-
 ![Nicholas's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasGhartey&layout=compact&hide_border=false&theme=darcula&bg_color=00000000&langs_count=6)!
-
-
 
 
 
